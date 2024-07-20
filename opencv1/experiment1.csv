@@ -1,0 +1,18 @@
+img_name,img_scale,interpolation,img_Horizontal,img_Vertical,Rotation_center,Rotation_angle
+1.jpg,0.5,NEAREST,100,200,center,45
+2.jpg,0.5,NEAREST,-100,200,center,-45
+3.jpg,0.5,LINEAR,-100,-200,center,60
+4.jpg,0.5,LINEAR,100,-200,center,-60
+5.jpg,0.8,NEAREST,30,60,center,90
+6.jpg,0.8,NEAREST,-30,60,center,-90
+7.jpg,0.8,LINEAR,30,-60,center,120
+8.jpg,0.8,LINEAR,-30,-60,center,-120
+9.jpg,1.2,NEAREST,200,100,center,135
+10.jpg,1.2,NEAREST,-200,100,center,-135
+11.jpg,1.2,LINEAR,200,-100,center,150
+12.jpg,1.2,LINEAR,-200,-100,center,-150
+13.jpg,"512, 512",NEAREST,60,30,center,180
+17.jpg,"800, 800",NEAREST,-50,0,origin,-20
+18.jpg,"800, 800",NEAREST,50,0,origin,20
+19.jpg,"800, 800",LINEAR,0,50,origin,10
+20.jpg,"800, 800",LINEAR,0,-50,origin,-10

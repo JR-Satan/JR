@@ -1,0 +1,3 @@
+/home/jr/C++/opencv1/build/CMakeFiles/opencvtest1.dir
+/home/jr/C++/opencv1/build/CMakeFiles/edit_cache.dir
+/home/jr/C++/opencv1/build/CMakeFiles/rebuild_cache.dir
