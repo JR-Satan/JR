@@ -1,0 +1,5 @@
+/home/jr/下载/CLion-2024.1.4/clion-2024.1.4/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/jr/下载/CLion-2024.1.4/clion-2024.1.4/bin/ninja/linux/x64/ninja -G Ninja -S /home/jr/C++/opencv2CL -B /home/jr/C++/opencv2CL/cmake-build-debug
+-- Found OpenCV: /usr/local (found version "4.6.0") 
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/jr/C++/opencv2CL/cmake-build-debug
